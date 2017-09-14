@@ -1,2 +1,2 @@
 # MachineLearning
-Project for Machine Learning Exercises
+Project for various machine learning techniques
