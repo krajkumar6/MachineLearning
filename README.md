@@ -1,2 +1,2 @@
 # MachineLearning
-Project for various machine learning techniques
+Repository for ML projects/exercises
